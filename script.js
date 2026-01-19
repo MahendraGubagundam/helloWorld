@@ -81,12 +81,12 @@ const languages = [
     },
     {
         name: 'Bhailang',
-        description: 'Langage de programmation expérimental',
+        description: 'Language de programmation expérimental',
         link: 'https://bhailang.js.org'
     },
     {
         name: 'Bicep',
-        description: 'Langage déclaratif pour Azure',
+        description: 'Language déclaratif pour Azure',
         link: 'https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview'
     },
     {
@@ -96,37 +96,37 @@ const languages = [
     },
     {
         name: 'Boo',
-        description: 'Langage orienté objet pour .NET',
+        description: 'Language orienté objet pour .NET',
         link: 'https://boo-language.github.io/'
     },
     {
         name: 'Brainfuck',
-        description: 'Langage de programmation ésotérique minimaliste',
+        description: 'Language de programmation ésotérique minimaliste',
         link: 'https://brainfuck.org/'
     },
     {
         name: 'C',
-        description: 'Langage de programmation système',
+        description: 'Language de programmation système',
         link: 'https://en.wikipedia.org/wiki/C_(programming_language)'
     },
     {
         name: 'C++',
-        description: 'Langage de programmation orienté objet',
+        description: 'Language de programmation orienté objet',
         link: 'https://en.wikipedia.org/wiki/C%2B%2B'
     },
     {
         name: 'C#',
-        description: 'Langage de programmation orienté objet',
+        description: 'Language de programmation orienté objet',
         link: 'https://en.wikipedia.org/wiki/C_Sharp_(programming_language)'
     },
     {
         name: 'D',
-        description: 'Langage de programmation système',
+        description: 'Language de programmation système',
         link: 'https://en.wikipedia.org/wiki/D_(programming_language)'
     },
     {
         name: 'Dart',
-        description: 'Langage de programmation orienté objet',
+        description: 'Language de programmation orienté objet',
         link: 'https://dart.dev/'
     },
     {
@@ -141,27 +141,27 @@ const languages = [
     },
     {
         name: 'Eiffel',
-        description: 'Langage de programmation orienté objet',
+        description: 'Language de programmation orienté objet',
         link: 'https://en.wikipedia.org/wiki/Eiffel_(programming_language)'
     },
     {
         name: 'Elixir',
-        description: 'Langage de programmation fonctionnelle',
+        description: 'Language de programmation fonctionnelle',
         link: 'https://elixir-lang.org/'
     },
     {
         name: 'Erlang',
-        description: 'Langage de programmation fonctionnelle',
+        description: 'Language de programmation fonctionnelle',
         link: 'https://www.erlang.org/'
     },
     {
         name: 'F#',
-        description: 'Langage de programmation fonctionnelle',
+        description: 'Language de programmation fonctionnelle',
         link: 'https://en.wikipedia.org/wiki/F_Sharp_(programming_language)'
     },
     {
         name: 'Fortran',
-        description: 'Langage de programmation haut niveau',
+        description: 'Language de programmation haut niveau',
         link: 'https://en.wikipedia.org/wiki/Fortran'
     },
     {
@@ -171,42 +171,42 @@ const languages = [
     },
     {
         name: 'GML',
-        description: 'Langage de script pour GameMaker',
+        description: 'Language de script pour GameMaker',
         link: 'https://manual.gamemaker.io/monthly/en/#t=GameMaker_Language.htm'
     },
     {
         name: 'Go',
-        description: 'Langage de programmation système',
+        description: 'Language de programmation système',
         link: 'https://golang.org/'
     },
     {
         name: 'Haskell',
-        description: 'Langage de programmation fonctionnelle',
+        description: 'Language de programmation fonctionnelle',
         link: 'https://www.haskell.org/'
     },
     {
         name: 'HTML',
-        description: 'Langage de balisage pour la création de pages web',
+        description: 'Language de balisage pour la création de pages web',
         link: 'https://developer.mozilla.org/en-US/docs/Web/HTML'
     },
     {
         name: 'Java',
-        description: 'Langage de programmation orienté objet',
+        description: 'Language de programmation orienté objet',
         link: 'https://www.java.com/en/'
     },
     {
         name: 'JavaScript',
-        description: 'Langage de programmation client-side',
+        description: 'Language de programmation client-side',
         link: 'https://developer.mozilla.org/en-US/docs/Web/JavaScript'
     },
     {
         name: 'Julia',
-        description: 'Langage de programmation haut niveau',
+        description: 'Language de programmation haut niveau',
         link: 'https://julialang.org/'
     },
     {
         name: 'Kotlin',
-        description: 'Langage de programmation orienté objet',
+        description: 'Language de programmation orienté objet',
         link: 'https://kotlinlang.org/'
     },
     {
@@ -216,7 +216,7 @@ const languages = [
     },
     {
         name: 'Lisp',
-        description: 'Langage de programmation fonctionnel historique',
+        description: 'Language de programmation fonctionnel historique',
         link: 'https://common-lisp.net/'
     },
     {
