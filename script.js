@@ -16,22 +16,22 @@ const languages = [
     },
     {
         name: 'ALGOL 68',
-        description: 'Langage de programmation historique influent',
+        description: 'Language de programmation historique influent',
         link: 'https://jmvdveer.home.xs4all.nl/en.algol-68-genie.html'
     },
     {
         name: 'AppleScript',
-        description: 'Langage de script pour automatiser les tâches sur macOS',
+        description: 'Language de script pour automatiser les tâches sur macOS',
         link: 'https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html'
     },
     {
         name: 'Assembly',
-        description: 'Langage de programmation de bas niveau',
+        description: 'Language de programmation de bas niveau',
         link: 'https://en.wikipedia.org/wiki/Assembly_language'
     },
     {
         name: 'AutoIt',
-        description: 'Langage de script pour l\'automatisation Windows',
+        description: 'Language de script pour l\'automatisation Windows',
         link: 'https://www.autoitscript.com/site/autoit/'
     },
     {
@@ -56,12 +56,12 @@ const languages = [
     },
     {
         name: 'Ballerina',
-        description: 'Langage de programmation orienté objet',
+        description: 'Language de programmation orienté objet',
         link: 'https://ballerina.io/'
     },
     {
         name: 'BASIC',
-        description: 'Langage de programmation classique pour débutants',
+        description: 'Language de programmation classique pour débutants',
         link: 'https://www.vintage-basic.net/'
     },
     {
@@ -71,7 +71,7 @@ const languages = [
     },
     {
         name: 'Batch',
-        description: 'Langage de script Windows',
+        description: 'Language de script Windows',
         link: 'https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands'
     },
     {
